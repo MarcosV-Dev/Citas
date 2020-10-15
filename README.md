@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Demo: https://unruffled-aryabhata-7dda0a.netlify.app/
+## Live Demo
+
+https://unruffled-aryabhata-7dda0a.netlify.app/
 
 ## Available Scripts
 
